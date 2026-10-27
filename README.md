@@ -117,6 +117,6 @@ There are no unit tests included currently (see *Future developments*).
 
 ## License
 
-**images-generator** is released under the MIT Licence. See the bundled LICENSE file for details.
+**images-generator** is released under the Apache-2.0 license. See the bundled LICENSE file for details; the upstream license is bundled in the NOTICE file.
 
 The **[Roboto](https://github.com/google/roboto)** font file included in this project is under Apache Licence 2.0 as mentioned on the [Roboto](https://github.com/google/roboto) repository.
